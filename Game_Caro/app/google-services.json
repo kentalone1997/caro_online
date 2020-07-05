@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "889979044597",
+    "firebase_url": "https://test-daf14.firebaseio.com",
+    "project_id": "test-daf14",
+    "storage_bucket": "test-daf14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889979044597:android:cf37675d313f35a880fbbc",
+        "android_client_info": {
+          "package_name": "com.example.co_caro.game_caro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889979044597-lpc1v2ubjpeu3ciope7rqdeqmkmd5rbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMumqyw5U7p5FIdEb1bklOc3FWgNyTjjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889979044597-lpc1v2ubjpeu3ciope7rqdeqmkmd5rbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889979044597:android:bbe652b01cc4042480fbbc",
+        "android_client_info": {
+          "package_name": "com.example.game_caro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889979044597-lpc1v2ubjpeu3ciope7rqdeqmkmd5rbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMumqyw5U7p5FIdEb1bklOc3FWgNyTjjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889979044597-lpc1v2ubjpeu3ciope7rqdeqmkmd5rbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889979044597:android:ce732ff0b811fe7480fbbc",
+        "android_client_info": {
+          "package_name": "com.example.lvlong.game_caro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889979044597-lpc1v2ubjpeu3ciope7rqdeqmkmd5rbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMumqyw5U7p5FIdEb1bklOc3FWgNyTjjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889979044597-lpc1v2ubjpeu3ciope7rqdeqmkmd5rbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

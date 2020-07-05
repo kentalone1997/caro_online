@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.example.co_caro.game_caro.CustomTextview
+        android:layout_width="match_parent"
+        android:id="@+id/customtextview"
+        android:gravity="center"
+        android:textColor="#ffffff"
+        android:textSize="15dp"
+        android:textAllCaps="true"
+        android:textStyle="bold"
+        android:layout_height="match_parent" />
+</android.support.constraint.ConstraintLayout>
